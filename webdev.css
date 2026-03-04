@@ -1,0 +1,449 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.body {
+    padding: 70px 0px;
+}
+.logo {
+    background-color: #FEFEFE;
+    display: flex;
+}
+.logo img {
+    padding-left: 20px;
+    padding-bottom: 8px;
+}
+.navbar {
+    align-content: center;
+    padding: 0px 300px;
+    font-family: sans-serif;
+}
+.navlinks li {
+    display: inline-block;
+}
+.navlinks li a {
+    text-decoration: none;
+    padding: 0px 15px;
+    color: #3E3F41;
+}
+.navlinks {
+    
+}
+.guide {
+    background-color: #1973E7;
+    padding: 28px 5px;
+}
+.guidance {
+    color: #FEFEFE;
+    font-family: sans-serif;
+    font-size: 17px;
+    padding-left: 20px;
+}
+.Chrome {
+    background-color: #E9F0FE;
+    padding: 25px 3px;
+}
+.back {
+    color: #303FA0;
+    font-family: sans-serif;
+    font-size: 17px;
+    padding-left: 20px;
+}
+.reg {
+    color: #303FA0;
+}
+.h1 {
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+    margin-bottom: 80px;
+}
+.build {
+    color: #202124;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 65px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    font-weight: 900;
+}
+.beaut {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    color: #202124;
+    margin-left: 40px;
+    margin-right: 95px;
+    line-height: 30px;
+}
+.div img {
+    margin-top: 100px;
+    margin-right: 50px;
+}
+.nav {
+    margin-left: 70px;
+    line-height: 50px;
+    padding-top: 65px;
+}
+.api {
+    color: #202124;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+}
+.api:hover {
+    text-decoration: underline;
+}
+.navvv {
+    margin-bottom: 30px;
+    padding-right: 80px;
+}
+.firstsec {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 0px;
+    align-items: start;
+    margin-bottom: 100px;
+}
+.cards {
+display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
+.card {
+    background-color: #F5F6F7;
+    padding: 40px 30px;
+    border-radius: 18px;
+    transition: 0.3s ease;
+    text-align: center;
+}
+.card img {
+    margin-top: 65px;
+    margin-left: 70px;
+    margin-bottom: 35px;
+    padding-right: 50px;
+}
+.card h3 {
+    padding: 30px 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 2px;
+}
+.card a {
+    text-decoration: none;
+}
+.card p {
+    color: #202124;
+    margin-bottom: 50px;
+    text-align: center;
+    line-height: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn {
+    padding: 12px 30px;
+    margin-bottom: 50px;
+    margin-right: 55px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+.Explore h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    color: #202124;
+    padding: 30px 15px;
+}
+.btn1 {
+    padding: 12px 30px;
+    margin-left: 1100px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+.btn1 a {
+    text-decoration: none;
+}
+.webp p {
+ color: #525356;
+ font-family: Arial, Helvetica, sans-serif;
+ line-height: 22px;
+ margin-left: 20px;
+}
+.explore {
+    padding-bottom: 50px;
+    background-color: white;
+}
+.container {
+    background-color: #F5F6F7;
+    padding-bottom: 20px;
+}
+.soft {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    border-radius: 20px;
+    padding: 20px 20px;
+    background-color: #F5F6F7;
+}
+.soft2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+    border-radius: 20px;
+    padding: 20px 20px;
+    background-color: white;
+}
+.hcj1 {
+    background-color: white;
+    border-radius: 20px;
+    margin: 0px 20px;
+    padding-bottom: 70px;
+}
+.hcj1 img {
+    padding-left: 110px;
+    padding-top: 20px;
+}
+.hcj1 h3 {
+    padding-left: 150px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.hcj1 p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 45px;
+}
+.bt {
+    border-radius: 20px;
+    font-size: 15px;
+    margin-left: 110px;
+    padding: 10px 40px;
+    color: #1973E7;
+    border-color: #1973E7;
+}
+.bt:hover {
+    background-color: white;
+}
+.container2 {
+    background-color: white;
+    padding-bottom: 50px;
+}
+.hcj2 {
+    background-color:#F5F6F7;
+    border-radius: 20px;
+    margin: 0px 20px;
+    padding-bottom: 270px;
+}
+.hcj2 img {
+    padding-left: 110px;
+    padding-top: 40px;
+    margin-right: 110px;
+    padding-bottom: 80px;
+}
+.hcj2 h3 {
+    padding-left: 150px;
+    padding-top: 10px;
+    padding-bottom: 40px
+}
+.hcj2 p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 80px;
+}
+.Explore02 {
+    padding-bottom: 30px;
+    background-color: #F5F6F7;
+    margin-bottom: 20px;
+}
+.btn2 {
+    padding: 12px 30px;
+    margin-left: 300px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+.btn2:hover {
+    background-color: #1973E7;
+}
+.btn2 a {
+    text-decoration: none;
+    color: #1973E7;
+}
+.btn2 a:hover {
+    color: white;
+}
+.Explore02 img {
+    margin-left: 950px;
+}
+.Explore02 h2 {
+    padding: 40px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+} 
+.Explore02 p {
+    padding-left: 15px;
+}
+.btn3 {
+    padding: 12px 30px;
+    margin-left: 20px;
+    border-radius: 20px;
+    font-size: 15px;
+}
+.btn3 a {
+    text-decoration: none;
+    color: #1973E7;
+}
+.Baseline {
+    display: flex;
+    gap: 25px;
+    padding-bottom: 100px;
+}
+.baseline h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 20px;
+    font-size: 30px;
+}
+.baseline p {
+    padding: 20px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+.base a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: #3E3F41;
+    text-decoration: none;
+}
+.base a:hover {
+    text-decoration: underline;
+}
+.base p {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.bb {
+    background-color: #F5F6F7;
+}
+.base {
+    padding-top: 10px;
+} 
+.cont h6 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.cont p {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+.wrapper {
+    width: 100%;
+    max-width: 750px;
+}
+
+h6 {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+    color: #3c4043;
+    margin-bottom: 15px;
+}
+
+.subtitle {
+    text-align: center;
+    color: #5f6368;
+    font-size: 18px;
+    margin-bottom: 50px;
+}
+
+form {
+    width: 100%;
+}
+
+/* GRID LAYOUT */
+.form-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+}
+
+/* Full width fields */
+.full {
+    grid-column: span 2;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    font-size: 14px;
+    color: #5f6368;
+    margin-bottom: 6px;
+}
+
+input,
+select {
+    height: 38px;
+    padding: 0 12px;
+    border: 1px solid #dadce0;
+    border-radius: 4px;
+    font-size: 16px;
+    outline: none;
+    background: white;
+}
+
+input:focus,
+select:focus {
+    border-color: #1a73e8;
+}
+
+.info-text {
+    grid-column: span 2;
+    font-size: 14px;
+    color: #5f6368;
+    line-height: 1.6;
+    margin-top: 5px;
+}
+
+.checkbox-group {
+    grid-column: span 2;
+    display: flex;
+    align-items: flex-start;
+    margin-top: 15px;
+}
+
+.checkbox-group input {
+    margin-right: 12px;
+    margin-top: 4px;
+}
+
+.checkbox-group label {
+    margin: 0;
+    font-size: 14px;
+}
+
+.subscribe-btn {
+    grid-column: span 2;
+    width: 150px;
+    margin: 40px auto 0;
+    height: 42px;
+    background-color: #1a73e8;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    letter-spacing: 0.5px;
+    transition: 0.3s;
+}
+
+.subscribe-btn:hover {
+    background-color: #1558b0;
+}
+
